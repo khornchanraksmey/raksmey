@@ -1,18 +1,11 @@
 # 💫 About Me:
-
-👋 Hello! I'm a student at the Institute of Technology of Cambodia (ITC), majoring in Data Science.
-
-🔭 I’m currently working on improving my skills in Data Science, Machine Learning, and Data Analysis.
-
-🌱 I’m currently learning more about Machine Learning, Deep Learning, and Power BI.
-
-👯 I’m looking to collaborate on Data Science projects, AI projects, and real-world data applications.
-
-🤝 I’m looking for help with improving my programming skills and building better ML projects.
-
-💬 Ask me about Python, Data Science, Machine Learning, and Data Visualization.
-
-⚡ Fun fact: I enjoy exploring data and turning it into meaningful insights 🚀
+  Hello! I'm a student at the Institute of Technology of Cambodia (ITC), majoring in Data Science.
+I’m currently working on improving my skills in Data Science, Machine Learning, and Data Analysis.
+I’m currently learning more about Machine Learning, Deep Learning, and Power BI.
+I’m looking to collaborate on Data Science projects, AI projects, and real-world data applications.
+I’m looking for help with improving my programming skills and building better ML projects.
+Ask me about Python, Data Science, Machine Learning, and Data Visualization.
+Fun fact: I enjoy exploring data and turning it into meaningful insights 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reaksmey.khorn.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khornchanraksmey) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KHORN CHANRAKSMEY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanraksmeykhorn@gmail.com) 
